@@ -30,7 +30,6 @@ class ViewController: UIViewController {
         }
     }
 
-
     override func viewDidLoad() {
         super.viewDidLoad()
         controller = BeerController(view: self)
